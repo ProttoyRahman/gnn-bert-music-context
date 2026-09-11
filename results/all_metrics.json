@@ -1,0 +1,24 @@
+{
+  "classification": {
+    "cnn_accuracy": 0.18333333333333332,
+    "cnn_macro_f1": 0.0855175983436853,
+    "cnn_micro_f1": 0.18333333333333332,
+    "gnn_accuracy": 0.36666666666666664,
+    "gnn_macro_f1": 0.3330180051965436,
+    "gnn_micro_f1": 0.36666666666666664,
+    "bert_accuracy": 0.7833333333333333,
+    "bert_macro_f1": 0.7806319887594404,
+    "bert_micro_f1": 0.7833333333333333,
+    "fusion_accuracy": 0.75,
+    "fusion_macro_f1": 0.7458569583569583,
+    "fusion_micro_f1": 0.75
+  },
+  "contrastive_retrieval": {
+    "audio_to_text_recall_at_1": 0.05,
+    "text_to_audio_recall_at_1": 0.041666666666666664,
+    "audio_to_text_recall_at_5": 0.21666666666666667,
+    "text_to_audio_recall_at_5": 0.175,
+    "audio_to_text_recall_at_10": 0.325,
+    "text_to_audio_recall_at_10": 0.35
+  }
+}
