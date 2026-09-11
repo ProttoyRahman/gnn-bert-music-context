@@ -1,0 +1,13 @@
+torch
+torch-geometric
+transformers
+datasets
+librosa
+soundfile
+scikit-learn
+pandas
+matplotlib
+seaborn
+networkx
+pyyaml
+numpy
